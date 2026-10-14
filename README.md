@@ -56,13 +56,17 @@ nitya/
 ├── styles.css             # Dashboard styling and responsive layout
 ├── app.js                 # CRUD, filters, statistics, storage and events
 ├── README.md              # Project overview and execution guide
-├── screenshots/           # Genuine browser output captures
+├── screenshots/           # Genuine working UI captures
 └── tests/                 # Automated end-to-end browser test
 ```
 
 ## Screenshots
 
-Screenshots are supplied in the AAT-1 submission package and will be added to this repository separately.
+![StudyFlow dashboard](screenshots/dashboard.webp)
+
+![Create a task form](screenshots/new-task.webp)
+
+Screenshots were captured from the working application in a managed Chromium environment; they are compressed for GitHub preview. Full-resolution PNG versions are included in the AAT-1 submission package.
 
 ## Development methodology
 1. Identified the problem: manual task lists make deadlines hard to track.
